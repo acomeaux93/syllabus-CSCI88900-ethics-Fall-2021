@@ -62,7 +62,7 @@ There is no required text for this course. Readings will be assigned from a vari
 - Assignment:
   - Recode an assignment or assignments  that you previously wrote that uses both lists and dictionaries.
  
-##### Week 3 - Privacy 
+##### Week 3 - Privacy and anonymity
 
 - Discuss privacy and anonymity as it relates to CS ethics (students' preconceived notions).
 
@@ -107,22 +107,22 @@ conclusions.
 - Assignment:
   - Short written assignment on how a service used by each student collects and uses their data.
 
-##### Week 6 - Unintended Consequences, Part 2 -- Internationalization
+##### Week 6 - Unintended Consequences, Part 2
 
-- Class lab assignment:
-  - Develop a system that accepts resumes and scans them for set skills. The resume will extract names and phone numbers of the candidates. Resumes in the form:
-    - Name, Date of Birth, Phone number, Skills (csv)
-  - This will require a discussion and tutorial on regular expressions.
-  - Run on set of international applicants. Discuss bias.
-- Assignment: Redesign and rewrite resume scanner to better
-account for national bias.
+- Introduction to regular expressions.
+- Class lab:
+  - Develop a system that scans for phone numbers in a text file
+- Assignment:
+  - Devlelop a system that scans for names and dates (birthdays) in a text file.
+
 
 ##### Week 7 - Politics and Policy
 
-- Class lab assignment: Design and build a system to set up congressional voting districts on a grid city.
-
 - Discussion of political bias and gerrymandering.
 
+- class assignment
+  - design a system to form congrestional districts
+  
 - Assignment: Use NYC Data (housing, income etc) to improve class lab assignment
 
 - Reading:
@@ -166,9 +166,7 @@ account for national bias.
 - Reading
   - [https://dl.acm.org/citation.cfm?id=2604991](https://dl.acm.org/citation.cfm?id=2604991)
 
-##### Week 10 -- Midterm Exam
-
-##### Week 11 -- Accessibility
+##### Week 10 -- Accessibility
 
 - Class lab assignment:
   - Overview of the Flask web platform.
@@ -183,7 +181,7 @@ account for national bias.
   - [http://flask.pocoo.org/docs/0.12/tutorial/](http://flask.pocoo.org/docs/0.12/tutorial/)
   - [https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 
-##### Week 12 - Software Models
+##### Week 11 - Software Models
 
 - Commercial vs Freemium vs Free.
 - Free vs Open Source.
@@ -200,7 +198,7 @@ repositories.
   - [https://joyofandroid.com/mobile-gaming-addiction/](https://joyofandroid.com/mobile-gaming-addiction/)
   - [https://www.gnu.org/gnu/manifesto.html](https://www.gnu.org/gnu/manifesto.html)
 
-##### Week 13 - Miscellaneous Topics
+##### Week 12 - Miscellaneous Topics
 
 - Case study: Net Neutrality
   - [https://en.wikipedia.org/wiki/Net\_neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
@@ -215,9 +213,9 @@ repositories.
 - Case study: Security vs convenience
   - [https://www.pcworld.com/article/257793/why\_convenience\_is\_the\_enemy\_of\_security.html] (https://www.pcworld.com/article/257793/why_convenience_is_the_enemy_of_security.html)
 
-##### Week 14 - Student project presentations
+##### Week 13 - Student project presentations
 
-##### Week 15 -- Final Exam
+##### Week 14 -- Student project presentations
 
 ### Academic Integrity Statement
 
