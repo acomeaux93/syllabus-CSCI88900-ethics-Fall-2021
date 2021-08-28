@@ -53,16 +53,15 @@ There is no required text for this course. Readings will be assigned from a vari
 
 ##### Week 2 - Using data / Analyzing data
 - Review of Python
-- Introduction to Pandas / NumPy / SciPy
 - Readings:
-  - [https://pandas.pydata.org/pandas-docs/stable/10min.html](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-
-  - [https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+  - [https://runestone.academy/runestone/books/published/thinkcspy/index.html](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+- additional references
+  - [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)
+  - [https://www.programmer-books.com/learn-python-3-the-hard-way/](https://www.programmer-books.com/learn-python-3-the-hard-way/)
 
 - Assignment:
-  - Write a program to explore the Titanic data (based on
-            [http://www.awesomestats.in/python-pandas-titanic/](http://www.awesomestats.in/python-pandas-titanic/) <--link broken. Need fix. )
-
+  - Recode an assignment or assignments  that you previously wrote that uses both lists and dictionaries.
+ 
 ##### Week 3 - Looking at Census data (anonymity)
 
 - Discuss privacy and anonymity as it relates to CS ethics (students' preconceived notions).
