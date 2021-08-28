@@ -62,23 +62,18 @@ There is no required text for this course. Readings will be assigned from a vari
 - Assignment:
   - Recode an assignment or assignments  that you previously wrote that uses both lists and dictionaries.
  
-##### Week 3 - Looking at Census data (anonymity)
+##### Week 3 - Privacy 
 
 - Discuss privacy and anonymity as it relates to CS ethics (students' preconceived notions).
 
 - Discussion of how anonymized data is not always anonymous and what that implies.
 
-- Introduction to Census data. How it is represented, how to access it.
-
-- Discussion of cleaning data.
 
 - Readings:
   - Simple Demographics Often Identify People Uniquely, Latanya
     Sweeney [http://dataprivacylab.org/projects/identifiability/paper1.pdf](http://dataprivacylab.org/projects/identifiability/paper1.pdf)
   - Weaving Techonlogy and Policy Together to Maintain Confidentiality, Latanya Sweeney  [http://dataprivacylab.org/dataprivacy/projects/law/jlme.pdf](https://dataprivacylab.org/dataprivacy/projects/law/law1.html)
 
-- Assignment:
-  - Write a program to analyze Census data to determine how unique you are based on zip code, gender, and birth date.
 
 ##### Week 4 - Unintended consequences - when the motive is profit
 
