@@ -33,8 +33,7 @@ There is no required text for this course. Readings will be assigned from a vari
 
 - Final project/paper: 30%
 - Programming assignments: 30%
-- Presentations / accompanying papers: 20%
-- Other assignments: 10%
+- Presentations / accompanying papers / other assignments: 30%
 - Class participation: 10%
 
 ## Course Content and Organization:
