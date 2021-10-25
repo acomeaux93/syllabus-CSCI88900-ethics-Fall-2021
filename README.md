@@ -105,8 +105,31 @@ conclusions.
 
 - Assignment:
   - Short written assignment on how a service used by each student collects and uses their data.
+  - Movie survey
 
-##### Week 6 - Unintended Consequences, Part 2
+##### Week 6 - Recommendation Systems
+
+- Given our movie survey results, how would you select a movie you like based on one factor?
+- What about two factors?
+- Discussion of distance formula for recommendation systems
+- Discussion - where and what factors are recommendation systems used
+- What are postive and negative reprecussions?
+- Thoughts on regulation?
+- Assignment:
+  - final project proposals
+  - Read: https://www.algoexpertise.com/which-algorithms-are-used-in-recommender-systems/
+
+There's proposed legislation on recommender systems in China and
+Russian (read the following two pieces);
+
+- https://www.china-briefing.com/news/recommendation-algorithm-regulations-china-cybersecurity-regime/
+- https://1stnews.com/facebook-twitter-recommendation-algorithms-could-be-deactivated-under-new-plans-from-russian-lawmakers/
+
+In the slack share your thoughts on if and how recommendation
+systems should be regulated and on the fact that the first proposed
+legislation is coming from China rather than the US or EU.
+
+##### Week 7 - Unintended Consequences, Part 2
 
 - Introduction to regular expressions.
 - Class lab:
@@ -115,7 +138,7 @@ conclusions.
   - Devlelop a system that scans for names and dates (birthdays) in a text file.
 
 
-##### Week 7 - Politics and Policy
+##### Week 8 - Politics and Policy
 
 - Discussion of political bias and gerrymandering.
 
@@ -129,7 +152,7 @@ conclusions.
   - [https://en.wikipedia.org/wiki/Maptitude](https://en.wikipedia.org/wiki/Maptitude)
   - [https://bdistricting.com/2010/](https://bdistricting.com/2010/)
 
-##### Week 8 - Social Justice and Computer Science Education
+##### Week 9 - Social Justice and Computer Science Education
 
 - An overview of the CSforALL movement.
 
@@ -151,19 +174,6 @@ conclusions.
   - [https://c.ymcdn.com/sites/www.csteachers.org/resource/resmgr/CSTA\_BugsInTheSystem.pdf](https://c.ymcdn.com/sites/www.csteachers.org/resource/resmgr/CSTA_BugsInTheSystem.pdf)
   - Selections from
 [https://www.csteachers.org/page/ResearchandReports](https://www.csteachers.org/page/ResearchandReports)
-
-##### Week 9 - Hidden Bias
-
-- Class lab assignment:
-  - Design and write a movie recommendation system.
-  - Accumulate a database of recommendations.
-  - Explore and discuss the possibilities of hidden bias in recommendations and where real examples appear on the internet.
-
-- Assignment:
-  - Written assignment on current examples of hidden bias and possible solutions.
-
-- Reading
-  - [https://dl.acm.org/citation.cfm?id=2604991](https://dl.acm.org/citation.cfm?id=2604991)
 
 ##### Week 10 -- Accessibility
 
