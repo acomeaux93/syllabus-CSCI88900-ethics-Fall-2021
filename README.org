@@ -38,6 +38,627 @@ There is no required text for this course. Readings will be assigned from a vari
 - Class participation: 10%
 
 ** Course Content and Organization:
+
+*** Week 1 
+**** Sync
+***** Breakout
+- what comprises Ethical CS - can share web references? 10 minutes
+***** Course overview
+- syllabus
+- grading
+- Github Assignment Repo setup
+- Weekly Ethicacy
+- How async will work (vs assignments and homework)  
+***** Ground rules for discussions. We will grow/learn the most if...
+- respect positions
+- separate person (and their worth) from their opinions/stance
+- listen for understanding
+- step into others' shoes
+- play "Devil's advocate" to suss out unfamilar or
+  distasteful/problematic positions
+*** Async
+**** Part 1 - folder in your repo: week_01
+Find an article dealing with a CS issue and:
+- Post a link to the async channel with a link to the article and a
+  short (1 or 2 sentences) summary/title. 
+- Write and post a short (no more than 1 page) summary (which should include a hyperlink to
+  the article) to the week_00 folder of your repo named
+  article.pdf. You can also store additional files.
+- You're analysis should ideally be with respect to at least one of
+  these groups:
+  - Your students
+  - Your community/family
+  - You
+  - World at large?
+**** Part 2
+Respond to at least 2 other classmates posts by adding to a thread
+under their part 1 post.
+
+Offer any/all of:
+- your take on the topic
+- extra information
+- links for further reading
+- your personal experience with something similar
+- something this inspired you to think about
+- etc
+
+  No need to read their PDF, you can just read the source material.
+**** Part 3
+Start to review Python 
+    
+** Week 2
+**** Sync
+***** Share Full Ethicacy Calendar
+
+***** Python
+**** Async
+- set up work repos
+- Python assignment
+  - recode game of life from summer intensive in python
+
+** Week 3 Data Privacy
+*** Sync
+**** Ethicacy
+**** Breakouts
+Compose a memo to students/staff/guardian population explaining your
+recent decree, taking one of these positions (project to pre-vax):
+- Every student and teacher, and anyone else who enters your building, MUST install a contact tracing app.
+  b/c...
+  and here is is/are suggested apps...
+
+- Our school will NOT be using contact tracing apps.
+  b/c...
+  or: unless these requirements are met...
+- 1 page memo inder week_02/contact-tracing.pdf
+  but can be bullet notes for now
+
+What were the considerations that made your choice difficult?
+**** Data privacy - breakouts (10 minutes)
+- https://dataprivacylab.org/index.html
+- Do exercise
+- read explanation
+- discuss - where do you or others collect this data / congregate this
+  data unknowingly.
+- read the references from the page (and look over the site)
+
+More materials:
+- https://www.vice.com/en/article/yp3d8v/yahoos-gigantic-anonymized-user-dataset-isnt-all-that-anonymous
+- ttp://dataprivacylab.org/projects/identifiability/paper1.pdf
+- https://dataprivacylab.org/projects/wa/index.html
+- https://dataprivacylab.org/projects/wa/index.html
+- https://dataprivacylab.org/projects/
+
+*** ASYNC
+**** First look over the references on this page: 
+
+https://aboutmyinfo.org/identity/about
+
+
+Next, select two services - They could be domain specific like a an
+education platform, generic like Gmail or could even be two similar
+ones like two email providers.
+
+Read their privacy policies.
+
+Post the products you are reviewing and comment on one thing for each
+policy (what it is, why it's good or bad or what raises flags, in your
+opinion).
+
+If someone else already posted the product, add to their thread rather
+than creating a new one.
+
+Write up a short summary comparing and contrasting. Include an
+overview of what data is collected and maintained and how they may or
+may not use it.
+
+If another class member is working on the same two products you can
+work with them on the writeup. Make sure to include both names and
+make sure the file is uploaded to both of your repos.
+
+Save write up in: week_02_privacy/terms.pdf
+**** Finish Python assignment
+* week 4 regex
+** Sync
+- ethicacy
+- debrief from last weeks lesson
+*** Teach regex and Python files
+- https://regexr.com/
+- https://regexcheatsheet.com/
+- https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+- https://regexland.com/regex-tutorial/
+- https://www.javatpoint.com/regex
+- Talk about regex 
+- show basic matches
+  - letters, ranges, . + * ? {}
+  - | for or
+  - Groups
+- show in python
+  import re
+  re.findall(patern,text)    
+
+- assignment http://depts.washington.edu/goodidea/2008/menzin08.ppt?fbclid=IwAR0wWZcxU_2JuJZAmNXQ0dZq8cIF-on7tYkgaHTXUGF0V9MvRQeqzeVG-xM
+
+https://www.youtube.com/watch?v=K8L6KVGG-7o&list=WL&index=106&t=322s
+
+do emails as a class
+in class assignment phone numbers
+homework assignment names
+
+
+hidden bias
+
+go over regex
+find datesg
+
+find names
+
+** Async
+
+Folder: week_04_regex
+
+Grab the regex.py code from the class site. Modify it so that it reads
+a text file and uses regexes to find as many names in the text file as
+possible. For example "John Smith" would be a name as would "Mrs. Cho."
+
+Remember that you will likely have to use multiple regular expressions
+to handle different cases just like we did in class to identify dates.
+
+Create or edit your text file so that it has data to read in and test
+itself on.
+
+When run, your program should print out all the names it finds. Don't
+worry about formatting, you can just print the results of your calls
+to re.findall() or any other calls you make.
+
+Here are some links that could be useful
+- The online regex builder  https://regexr.com/
+- Cheatsheet https://regexcheatsheet.com/
+General Regex tutorials
+- https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+- https://regexland.com/regex-tutorial/
+- https://www.javatpoint.com/regex
+Python regex tutorials
+- https://www.w3schools.com/python/python_regex.asp
+- https://www.tutorialspoint.com/python/python_reg_expressions.htm
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+* Week 5 regex finish
+** Sync
+*** Ethicacy - Diana, Eric 
+*** Regex
+- List types of names covered in Zulip
+- List types of names you think others might not have covered
+- go over regex
+- List types of names NOT covered in Zulip
+- Talk about true negatives and false positives
+- Talk about over training
+- These are issues with language processing in general   
+- How is this an ethical issue?
+  - People will code for what they know
+  - Not finding non USA names, dates, phones etc. 
+  - Story about Derrick's kids
+  - Resume Blindness (talk about my program)
+*** Describe ASYNC assignment
+** Async
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 8 | Day 0b1000 | Day 0x8 : 11/03
+03 November 2021
+
+Folder: N/A
+
+Read these pieces: 
+- https://www.theverge.com/2021/9/6/22659225/automated-hiring-software-rejecting-viable-candidates-harvard-business-school
+- https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G
+- https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-1/
+- https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-2/
+
+In this thread comment on at least one of the following questions and
+respond to at least one classmates comment. Some of these questions
+are only tangentially related to the automated scanning issues.
+
+- Should companies scan social media accounts of either potential
+  employees or current employees or should they be sacrosanct? Should
+  it be different for potential vs current employees?
+- Do you find a professional benefit to using social media and what
+  and if so what are they? On the flip side, what might be the
+  professional dangers?
+- What are your thoughts on connecting with students on social media?
+- If you were to design an automated job portal, how would you
+  structure it so that employers could optimally use it while also
+  protecting applicants in terms of both privacy as well as from any
+  biases employers may have?
+
+
+- For setting up the repo for web stuff:
+  1. Go to GitHub
+  2. Click on "new" to create a new repo (button on the upper left
+     usually)
+  3. type in a name for the repo
+  4. Make sure you select public for access (not private)
+  5. Make sure you select "create a readme file"
+  6. Once the repo is created go to settings
+  7. Select the "pages" tab from left side tab list
+  8. Select "main" as the branch and save (leave the / (root) thing
+     alone)
+     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* week 6 html build a web page
+
+Fully ASYNC week. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 9 | Day 0b1001 | Day 0x9 : 11/10
+09 November 2021
+
+Folder: week_09_web
+Filename: websites.md
+
+For this site you will make a web site and host it on GitHub. The site
+could be for class page, a personal site, or anything else. The site
+*must* include a form (although the form won't actually do anything)
+and at least one image but can include anything and everything else.
+
+You can and are encouraged to work with a partner.
+
+I surveyed you a while ago on your HTML/CSS backgrounds and will
+expect something comensurate with your knowledge. Not in terms of size
+but in terms of what you use. That is, brand new people will have much
+more bare bones sites and that's fine. I would love for you to take
+the week to stretch yourself a bit - try something new.
+
+*I do not expect any javascript for this assignment, just HTML and
+CSS.*
+
+You are to make the web site in a GitHub repository. In the file
+*websites.md* put links to:
+1. The repo that's holding the web site code (and location if it's not
+   the only thing there).
+2. The live website.
+3. The name of your partner if you're working with one.
+   
+Here are four videos to get you started. The first covers setting up
+the GitHub repo, the second basic HTML, then CSS, then more advanced
+CSS.
+- setup: https://www.youtube.com/watch?v=4Do0NXfiaX4&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=10
+- basic html: https://www.youtube.com/watch?v=PackQ6dgUIY&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=9
+- basic css:
+  https://www.youtube.com/watch?v=48UJRMk15i8&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=8
+- more css (grid):
+  https://www.youtube.com/watch?v=Hh0ac_djkWM&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=7
+
+Here are some tutorial sites:
+- HTML tutorials
+  - https://www.w3schools.com/html/
+  - https://www.tutorialspoint.com/html/index.htm
+- CSS Tutorials
+  - https://www.w3schools.com/Css/
+  - https://www.tutorialspoint.com/css/index.htm
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials
+- Grid and Flexbox tutorials
+  - https://www.quackit.com/css/flexbox/examples/
+
+And some reference sites:
+- HTML references
+  - https://www.w3schools.com/tags/default.asp
+  - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
+  - https://htmlreference.io/
+- CSS references
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+  - https://cssreference.io/
+  - https://www.w3schools.com/cssref/
+- Grid examples
+  - https://gridbyexample.com/examples/
+  - https://webkit.org/demos/css-grid/
+
+    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
+
+
+* Week 7 web and accessibility
+** Ethicacy
+- Ethicacy: Steph Jovani
+- Ethicacy Eduardo, Mamudu
+** Sync
+CSCI 70700 - Topics 
+SEDC 72900 – Methods II:
+
+- Peter's Q on starting kids w/ Javascript
+- look at web sites (and my home page).
+- Go to these pages on your sites
+  - https://accessibilitytest.org/
+  - https://www.webaccessibility.com/
+- Try a couple of random pages 
+- Talk about accessibility
+  - fonts, sizes, colors (color blindness-= games ) - WCAG
+  - modus themes
+  - Screen readers
+    - orca
+    - more here:
+      - Https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
+      - https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
+  - Magnifiers
+  - Modus themes
+- Have you had issues (students, co-workers?)
+- Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+- Guidelines here:https://www.w3.org/TR/WCAG/
+- article with link to tools:
+  https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+        
+** Async
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 10 | Day 0b1010 | Day 0xa : 11/17
+17 November 2021
+
+Folder: N/A
+
+- read:
+  - https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+  - https://www.bootstrapworld.org/blog/accessibility/User-Interface-REPL.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Describing-Images-Screenreaders.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Text-Navigation.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/User-Testing.shtml
+  - https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+
+- Here are some more references to look over on accessibility 
+  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+   - Guidelines here:https://www.w3.org/TR/WCAG/
+- Work on final projects
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+* Week 8 - start airplane seating assignment
+** Sync
+*** Ethicacy
+*** Review the plane_seating code
+*** Breakouts - add the seat_economy parts
+**** Groups
+1. Morgan,Michelle P, Eduardo, Brian
+2. Eric Liu, Tiffany, Liam, Jiyoon
+3. Chris, Alex, Michelle B, Peter
+4. Victoria, Jovani, Daiana, Mamudu
+5. Julian, Steph, Marisa, Emma,
+6. Lyuba, Eric W, Ian, Benson 
+   
+
+*** Analysis
+- look at code
+- ethical issues  
+- Articles
+  - https://www.independent.co.uk/travel/news-and-advice/airline-flights-pay-extra-sit-together-split-family-algorithm-minister-a8640771.html
+  - https://thepointsguy.com/news/airlines-purposely-splitting-up-families-make-more-money/
+  - https://www.marketwatch.com/story/do-airlines-split-up-families-so-they-pay-extra-for-seat-allocation-2018-02-05
+** Async
+~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC Week 3 - DUE 10/6
+
+Repo directory: week_03_seating
+- Continue to study the provided seating code to make sure you
+  understand it. 
+- Design an algorithm that would seat people more equitably. 
+- Write up a description of your algorithm and save it as
+  week_03_seating/seating.pdf. Make sure this description states how
+  it should improve equity and also how it might affect other
+  concerns. 
+- NO CODE NEEDED HERE just a description but make a note of
+  implementation issues that might make your algorithm more practical
+  or more difficult to implement
+- find another example where optimization of one thing has ethical
+  ramifications and unintended consequences. bonus points if it's an
+  ethical optimization, that is, they optimize for a good ethical
+  reason but it has a negative unintended consequence. Post article
+  link or reference to this to slack
+- make a file week_03_planes/consequences.md  with link to article 
+~~~~~~~~~~~~~~~~~~~~~~~~
+  
+
+
+* Week 9 - Airplane seating continued
+- ethics 
+- old breakouts discussion of better algorithms - breakouts
+- discussion of better algorithms - together
+- lab sync and async - implement new algorithm
+
+** Async
+~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC Week 4 - DUE 10/20 (2 weeks)
+
+Repo directory: week_03_seating (yes, the same as last week)
+
+- Write up a description of your algorithm as a pdf file and store it
+  in the folder under the name algorithm.pdf
+- Make a copy of the provided plane_seating.py in the folder
+  and implement as much of your algorithm as you can.
+  If you can't implement it fully, describe in the comments what
+  you couldn't do due to either time or complexity.
+
+  If you want to start with a new plane base rather than work from the
+  provided code, that's fine but make sure the filename for your
+  implementation is still plane_seating.py
+  
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Week 10 - privacy and the web (maybe move this before the airline unit)
+** Sync
+*** Ethicacy - Chris and Emma
+*** lesson
+- What information are we sharing when we access the web (breakout
+  then list)?
+  - list then try these two tools
+  - http://webkay.robinlinus.com/
+  - https://www.whatismybrowser.com/
+- talk about pixel control     
+- read: https://privacyrights.org/consumer-guides/online-privacy-using-internet-safely
+- discuss 
+  - In your ideal world, what are the inalienable rights of a digital citizen?
+  - In practicality, which of these do you think are most attainable?
+  - What is the single most important thing to teach K-12 students with respect to their privacy concerns?
+  - how much should be legislated vs tech vs market
+*** talk about old internet
+- when did you get on the internet poll
+  :older_man: - 1980s
+  :camel: - 1990s
+  :horse: - 2000s
+  :cat: - 2010s
+
+  What was it like then? 
+  - open but no privacy but a different world
+  - There was no real privacy - open directories, rot13 etc.  
+  - look up Fred Wilson's posts 
+*** Cookies
+- Cookies - what are they and what are the implications?
+- Cookie law and how it affects us
+- Read:  https://www.gdpreu.org/ and discuss (breakouts)
+    
+- What is the data collected by companies whose services we use and
+  how do can they leverage it.
+
+
+What information are we sharing when we access the web?
+Cookies - what are they and what are the implications?
+What is the data collected by companies whose services we use and how
+do/can they leverage it?
+
+talk about the idea that on top of this stuff isn't really anonymous
+** Reading:
+- Google's GMail: a love betrayed?, Aaron Weiss
+  https://dl.acm.org/citation.cfm?id=997938
+- https://motherboard.vice.com/en_us/article/yp3d8v/yahoos-gigantic-anonymized-user-dataset-isnt-all-that-anonymous
+- https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely
+** Async
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 5 | Day 0b0101 | Day 0x5 : 10/13
+13 October 2021
+
+1. Finish plane seating assignment
+2. Fill out this form once: https://forms.gle/5gFFGuvmcksSPP9N7
+3. Fill out this form for five movies (5 times):
+   https://forms.gle/NTrQkK7JxVeeTab79
+
+Please do the two forms by Friday morning at 8:00am
+      
+* Week 11 - unseen consequences
+** Sync
+*** Ethicacy - Marina and Marisa, notes Jiyoon. Morgan 
+*** Maybe plane demo
+*** Look at survey and share results
+- Movie recs:
+  https://docs.google.com/spreadsheets/d/1zpqDylxq5CIGtcOlLTOWV_nj3u6n8LermynBzd8DQC4/edit?usp=sharing
+- Movie prefs:
+  https://docs.google.com/spreadsheets/d/1t5rKuk3CyAyI4gdnATxPLRMZoGyyzRTsCZWh-9vKYvg/edit?usp=sharing
+- You want a movie to watch. Using the two spreadsheets, pick a movie
+  to watch. What did you do?
+- look for a person like you and then pick a movie in things you like
+*** Lets dig deeper
+- Netflix knows this. How? Movies you watch and rate
+- Look at 1 genre - we can easily see who's similar
+- Look at 2 genres - graph
+  - we can use distance formula
+    sqrt( (x2-x1)^2 + (y2-y1)^2 )
+- What about 3 points? We can do the same
+- We can do this for any number of points
+- describe full recommender system
+  - include similarity scores
+  - and clustering 
+*** List places where rec systems used in slack
+*** Breakout
+- where recommenders used, what factors do they look at and what are
+  motivations (some companies want to rec things for different
+  purposes)
+- Are they always accurate?
+*** Discussion
+debrief then breakouts as to where and why this might be a problem.
+- feedback loop - Facebook
+- feedback loop - learn about you (right or wrong - pregnancy thing) 
+- why was JS Zach Snyder extended cut rater so good (not the same but bias)?
+
+https://www.algoexpertise.com/which-algorithms-are-used-in-recommender-systems/
+https://blog.hootsuite.com/facebook-algorithm/
+https://dl.acm.org/citation.cfm?id=2604991      
+
+*** Regulation
+- last week we talked about
+  - GDPR - eu
+  - ccpa in California, COPPA for children in some cases
+  - What about recommenders
+      
+- https://www.china-briefing.com/news/recommendation-algorithm-regulations-china-cybersecurity-regime/
+- https://1stnews.com/facebook-twitter-recommendation-algorithms-could-be-deactivated-under-new-plans-from-russian-lawmakers/
+** Async
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 6 | Day 0b0110 | Day 0x6 : 10/20
+20 October 2021
+
+Part 1: 
+Folder: final_project
+
+File name: proposal.md or proposal.pdf
+
+Write up in an .md or .pdf file (I'd prefer .md) a proposal for what
+you want to do for your final project. The project is to be done by
+groups of two (and one group of 3).
+
+Include:
+1. The names of the participants.
+2. A description of the issue you are going to tackle
+3. A description of how you will provide a program as part of the
+   project (which can be in any language, even untraditional ones like
+   using a spreadsheet for data analysis)
+   
+Make sure that all group members have a copy of this file in their
+repo.
+
+Take a look at Communications of the ACM for ideas (particularly the
+viewpoints): https://cacm.acm.org/
+
+
+See this page for more info on the final project:
+https://github.com/hunter-teacher-cert/csci77800-fall2021/blob/main/final.org
+
+THIS CAN BE A WORK IN PROGRESS so get your initial thoughts in this
+week. You'll have next week to tighten up and finalize and then can
+budget time until it's due later in the semester
+
+Part 2:
+
+Look over this site on recommender systems:
+https://www.algoexpertise.com/which-algorithms-are-used-in-recommender-systems/
+
+When we looked at privacy last week we discussed that while there is
+European legislation (GDPR), other than in California there isn't in
+the USA and we discussed thoughts on this in Slack.
+
+There's proposed legislation on recommender systems in China and
+Russian (read the following two pieces);
+
+- https://www.china-briefing.com/news/recommendation-algorithm-regulations-china-cybersecurity-regime/
+- https://1stnews.com/facebook-twitter-recommendation-algorithms-could-be-deactivated-under-new-plans-from-russian-lawmakers/
+
+In this thread, share your thoughts on if and how recommendation
+systems should be regulated and on the fact that the first proposed
+legislation is coming from China rather than the US or EU.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* week 12 - Laurence Berland
+- Ethics in the tech workplaces 
+- Ethicacy: Liam, Benson
+* Week 13 Ethicacy and Final Presentations
+
+* Week 14 Ethicacy and Final Presentations
+
 ** Academic Integrity Statement
 
 > "Hunter College regards acts of academic dishonesty (e.g., plagiarism,
