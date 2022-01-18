@@ -41,8 +41,8 @@ There is no required text for this course. Readings will be assigned from a vari
 
 *** Week 1 
 **** Sync
-***** Breakout
-- what comprises Ethical CS - can share web references? 10 minutes
+***** Topic
+- what comprises Ethical CS - can share web references? 
 ***** Course overview
 - syllabus
 - grading
@@ -56,40 +56,10 @@ There is no required text for this course. Readings will be assigned from a vari
 - step into others' shoes
 - play "Devil's advocate" to suss out unfamilar or
   distasteful/problematic positions
-*** Async
-**** Part 1 - folder in your repo: week_01
-Find an article dealing with a CS issue and:
-- Post a link to the async channel with a link to the article and a
-  short (1 or 2 sentences) summary/title. 
-- Write and post a short (no more than 1 page) summary (which should include a hyperlink to
-  the article) to the week_00 folder of your repo named
-  article.pdf. You can also store additional files.
-- You're analysis should ideally be with respect to at least one of
-  these groups:
-  - Your students
-  - Your community/family
-  - You
-  - World at large?
-**** Part 2
-Respond to at least 2 other classmates posts by adding to a thread
-under their part 1 post.
-
-Offer any/all of:
-- your take on the topic
-- extra information
-- links for further reading
-- your personal experience with something similar
-- something this inspired you to think about
-- etc
-
-  No need to read their PDF, you can just read the source material.
-**** Part 3
-Start to review Python 
-    
 ** Week 2
 **** Sync
+**** Ethicacy 
 ***** Share Full Ethicacy Calendar
-
 ***** Python
 **** Async
 - set up work repos
@@ -128,71 +98,13 @@ More materials:
 - https://dataprivacylab.org/projects/wa/index.html
 - https://dataprivacylab.org/projects/
 
-*** ASYNC
-**** First look over the references on this page: 
-
-https://aboutmyinfo.org/identity/about
-
-
-Next, select two services - They could be domain specific like a an
-education platform, generic like Gmail or could even be two similar
-ones like two email providers.
-
-Read their privacy policies.
-
-Post the products you are reviewing and comment on one thing for each
-policy (what it is, why it's good or bad or what raises flags, in your
-opinion).
-
-If someone else already posted the product, add to their thread rather
-than creating a new one.
-
-Write up a short summary comparing and contrasting. Include an
-overview of what data is collected and maintained and how they may or
-may not use it.
-
-If another class member is working on the same two products you can
-work with them on the writeup. Make sure to include both names and
-make sure the file is uploaded to both of your repos.
-
-Save write up in: week_02_privacy/terms.pdf
-**** Finish Python assignment
-* week 4 regex
-** Sync
+** week 4 regex
+*** Sync
 - ethicacy
 - debrief from last weeks lesson
-*** Teach regex and Python files
-- https://regexr.com/
-- https://regexcheatsheet.com/
-- https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
-- https://regexland.com/regex-tutorial/
-- https://www.javatpoint.com/regex
-- Talk about regex 
-- show basic matches
-  - letters, ranges, . + * ? {}
-  - | for or
-  - Groups
-- show in python
-  import re
-  re.findall(patern,text)    
-
-- assignment http://depts.washington.edu/goodidea/2008/menzin08.ppt?fbclid=IwAR0wWZcxU_2JuJZAmNXQ0dZq8cIF-on7tYkgaHTXUGF0V9MvRQeqzeVG-xM
-
-https://www.youtube.com/watch?v=K8L6KVGG-7o&list=WL&index=106&t=322s
-
-do emails as a class
-in class assignment phone numbers
-homework assignment names
-
-
-hidden bias
-
-go over regex
-find datesg
-
-find names
-
-** Async
+**** Regex
+What are regular expressions and how can we use them in Python
+*** Async
 
 Folder: week_04_regex
 
@@ -225,10 +137,10 @@ Python regex tutorials
 
 
 
-* Week 5 regex finish
-** Sync
-*** Ethicacy - Diana, Eric 
-*** Regex
+** Week 5 regex part 2
+*** Sync
+**** Ethicacy 
+**** Regex
 - List types of names covered in Zulip
 - List types of names you think others might not have covered
 - go over regex
@@ -241,8 +153,7 @@ Python regex tutorials
   - Not finding non USA names, dates, phones etc. 
   - Story about Derrick's kids
   - Resume Blindness (talk about my program)
-*** Describe ASYNC assignment
-** Async
+*** Async
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ASYNC
 Day 8 | Day 0b1000 | Day 0x8 : 11/03
@@ -287,7 +198,7 @@ are only tangentially related to the automated scanning issues.
      
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* week 6 html build a web page
+** week 6 html build a web page
 
 Fully ASYNC week. 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -360,63 +271,6 @@ And some reference sites:
     
 
 
-* Week 7 web and accessibility
-** Ethicacy
-- Ethicacy: Steph Jovani
-- Ethicacy Eduardo, Mamudu
-** Sync
-CSCI 70700 - Topics 
-SEDC 72900 – Methods II:
-
-- Peter's Q on starting kids w/ Javascript
-- look at web sites (and my home page).
-- Go to these pages on your sites
-  - https://accessibilitytest.org/
-  - https://www.webaccessibility.com/
-- Try a couple of random pages 
-- Talk about accessibility
-  - fonts, sizes, colors (color blindness-= games ) - WCAG
-  - modus themes
-  - Screen readers
-    - orca
-    - more here:
-      - Https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
-      - https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
-  - Magnifiers
-  - Modus themes
-- Have you had issues (students, co-workers?)
-- Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
-- Guidelines here:https://www.w3.org/TR/WCAG/
-- article with link to tools:
-  https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
-        
-** Async
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ASYNC
-Day 10 | Day 0b1010 | Day 0xa : 11/17
-17 November 2021
-
-Folder: N/A
-
-- read:
-  - https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
-  - https://www.bootstrapworld.org/blog/accessibility/User-Interface-REPL.shtml
-  - https://www.bootstrapworld.org/blog/accessibility/Describing-Images-Screenreaders.shtml
-  - https://www.bootstrapworld.org/blog/accessibility/Text-Navigation.shtml
-  - https://www.bootstrapworld.org/blog/accessibility/User-Testing.shtml
-  - https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
-
-- Here are some more references to look over on accessibility 
-  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
-   - Guidelines here:https://www.w3.org/TR/WCAG/
-- Work on final projects
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-
 * Week 8 - start airplane seating assignment
 ** Sync
 *** Ethicacy
@@ -463,9 +317,91 @@ Repo directory: week_03_seating
   
 
 
-* Week 9 - Airplane seating continued
-- ethics 
-- old breakouts discussion of better algorithms - breakouts
+** Week 7 web and accessibility
+*** Ethicacy
+*** Sync
+- look at web sites (and my home page).
+- Go to these pages on your sites
+  - https://accessibilitytest.org/
+  - https://www.webaccessibility.com/
+- Try a couple of random pages 
+- Talk about accessibility
+  - fonts, sizes, colors (color blindness-= games ) - WCAG
+  - modus themes
+  - Screen readers
+    - orca
+    - more here:
+      - Https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
+      - https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
+  - Magnifiers
+  - Modus themes
+- Have you had issues (students, co-workers?)
+- Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+- Guidelines here:https://www.w3.org/TR/WCAG/
+- article with link to tools:
+  https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+        
+*** Async
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 10 | Day 0b1010 | Day 0xa : 11/17
+17 November 2021
+
+Folder: N/A
+
+- read:
+  - https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+  - https://www.bootstrapworld.org/blog/accessibility/User-Interface-REPL.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Describing-Images-Screenreaders.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Text-Navigation.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/User-Testing.shtml
+  - https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+
+- Here are some more references to look over on accessibility 
+  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+   - Guidelines here:https://www.w3.org/TR/WCAG/
+- Work on final projects
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+** Week 8 - start airplane seating assignment
+*** Sync
+**** Ethicacy
+**** Review the plane_seating code
+**** Breakouts - add the seat_economy parts
+
+*** Async
+~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC Week 3 - DUE 10/6
+
+Repo directory: week_03_seating
+- Continue to study the provided seating code to make sure you
+  understand it. 
+- Design an algorithm that would seat people more equitably. 
+- Write up a description of your algorithm and save it as
+  week_03_seating/seating.pdf. Make sure this description states how
+  it should improve equity and also how it might affect other
+  concerns. 
+- NO CODE NEEDED HERE just a description but make a note of
+  implementation issues that might make your algorithm more practical
+  or more difficult to implement
+- find another example where optimization of one thing has ethical
+  ramifications and unintended consequences. bonus points if it's an
+  ethical optimization, that is, they optimize for a good ethical
+  reason but it has a negative unintended consequence. Post article
+  link or reference to this to slack
+- make a file week_03_planes/consequences.md  with link to article 
+~~~~~~~~~~~~~~~~~~~~~~~~
+  
+
+
+
+** Week 9 - Airplane seating continued
+- ethicacy 
+
 - discussion of better algorithms - together
 - lab sync and async - implement new algorithm
 
@@ -488,66 +424,6 @@ Repo directory: week_03_seating (yes, the same as last week)
   
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Week 10 - privacy and the web (maybe move this before the airline unit)
-** Sync
-*** Ethicacy - Chris and Emma
-*** lesson
-- What information are we sharing when we access the web (breakout
-  then list)?
-  - list then try these two tools
-  - http://webkay.robinlinus.com/
-  - https://www.whatismybrowser.com/
-- talk about pixel control     
-- read: https://privacyrights.org/consumer-guides/online-privacy-using-internet-safely
-- discuss 
-  - In your ideal world, what are the inalienable rights of a digital citizen?
-  - In practicality, which of these do you think are most attainable?
-  - What is the single most important thing to teach K-12 students with respect to their privacy concerns?
-  - how much should be legislated vs tech vs market
-*** talk about old internet
-- when did you get on the internet poll
-  :older_man: - 1980s
-  :camel: - 1990s
-  :horse: - 2000s
-  :cat: - 2010s
-
-  What was it like then? 
-  - open but no privacy but a different world
-  - There was no real privacy - open directories, rot13 etc.  
-  - look up Fred Wilson's posts 
-*** Cookies
-- Cookies - what are they and what are the implications?
-- Cookie law and how it affects us
-- Read:  https://www.gdpreu.org/ and discuss (breakouts)
-    
-- What is the data collected by companies whose services we use and
-  how do can they leverage it.
-
-
-What information are we sharing when we access the web?
-Cookies - what are they and what are the implications?
-What is the data collected by companies whose services we use and how
-do/can they leverage it?
-
-talk about the idea that on top of this stuff isn't really anonymous
-** Reading:
-- Google's GMail: a love betrayed?, Aaron Weiss
-  https://dl.acm.org/citation.cfm?id=997938
-- https://motherboard.vice.com/en_us/article/yp3d8v/yahoos-gigantic-anonymized-user-dataset-isnt-all-that-anonymous
-- https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely
-** Async
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ASYNC
-Day 5 | Day 0b0101 | Day 0x5 : 10/13
-13 October 2021
-
-1. Finish plane seating assignment
-2. Fill out this form once: https://forms.gle/5gFFGuvmcksSPP9N7
-3. Fill out this form for five movies (5 times):
-   https://forms.gle/NTrQkK7JxVeeTab79
-
-Please do the two forms by Friday morning at 8:00am
-      
 * Week 11 - unseen consequences
 ** Sync
 *** Ethicacy - Marina and Marisa, notes Jiyoon. Morgan 
@@ -652,6 +528,40 @@ legislation is coming from China rather than the US or EU.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+** Week 10 - privacy and the web (maybe move this before the airline unit)
+*** Sync
+**** Ethicacy 
+**** lesson
+- What information are we sharing when we access the web (breakout
+  then list)?
+  - list then try these two tools
+  - http://webkay.robinlinus.com/
+  - https://www.whatismybrowser.com/
+- talk about pixel control     
+- read: https://privacyrights.org/consumer-guides/online-privacy-using-internet-safely
+- discuss 
+  - In your ideal world, what are the inalienable rights of a digital citizen?
+  - In practicality, which of these do you think are most attainable?
+  - What is the single most important thing to teach K-12 students with respect to their privacy concerns?
+  - how much should be legislated vs tech vs market
+**** Reading:
+- Google's GMail: a love betrayed?, Aaron Weiss
+  https://dl.acm.org/citation.cfm?id=997938
+- https://motherboard.vice.com/en_us/article/yp3d8v/yahoos-gigantic-anonymized-user-dataset-isnt-all-that-anonymous
+- https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely
+*** Async
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ASYNC
+Day 5 | Day 0b0101 | Day 0x5 : 10/13
+13 October 2021
+
+1. Finish plane seating assignment
+2. Fill out this form once: https://forms.gle/5gFFGuvmcksSPP9N7
+3. Fill out this form for five movies (5 times):
+   https://forms.gle/NTrQkK7JxVeeTab79
+
+Please do the two forms by Friday morning at 8:00am
+      
 * week 12 - Laurence Berland
 - Ethics in the tech workplaces 
 - Ethicacy: Liam, Benson
